@@ -1,2 +1,2 @@
 # HuffmanProject
-Huffman Project 
+Huffman compression algorithm, enabling efficient text file compression and decompression
